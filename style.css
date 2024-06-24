@@ -1,0 +1,142 @@
+*,html,body{
+  padding: 0;
+  margin: 0;
+}
+.bg{
+  border-bottom: 2px solid darkblue;
+}
+.judul{
+  margin-top:-135%;
+  padding: 10px;
+  color: white;
+  margin-left: 10px;
+}
+.nomor{
+  color: white;
+  text-align: center;
+  margin-left:%;
+  font-size: 20px;
+  margin-top: 102%;
+  background-color: darkred;
+  height: 20px;
+  padding: 10px;
+}
+.tipe{
+  display: flex;
+  padding: 5px;
+  background-color: red;
+}
+.nav{
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  color:white;
+}
+.follow{
+  display: flex;
+  margin-top:-48%;
+  margin-left: -90px;
+}
+.icon{
+  background-color: #4d76ee;
+  color: white;
+  padding: 13px;
+  width: 50px;
+  border-radius: 30px;
+  text-align: right;
+  height: 18px;
+  margin-top: 5px;
+  margin-left: 100px;
+}
+.nama{
+  padding: 18px;
+  margin-left: -20px;
+  background-color: blue;
+}
+.welcome{
+  color: white;
+  margin-left: 20px;
+  margin-top: -20px;
+}
+.welcome h1 {
+  margin-left:-5px;
+}
+.welcome h2 {
+  margin-left:px;
+}
+.suka{
+  color: white;
+  padding: 14px;
+  font-size: 15px;
+  margin-left:15px;
+  display: flex;
+  width: 100px;
+}
+.like{
+  margin-left:5px;
+  margin-top: -7px;
+  padding: 12px;
+  display: flex;
+}
+.ce{
+  margin-left:px;
+}
+.textt{
+}
+.tema{
+  margin-top: 100px;
+  display: flex;
+  width: 100%;
+  padding: 10px;
+  margin-left: -50%;
+  font-weight: 20px;
+  font-size: 13px;
+}
+.titik{
+  padding: 10px;
+}
+.Temasatu{
+  border: 2px solid white;
+  padding: 10px;
+  background-color: white;
+  color: black;
+  border-radius: 20px;
+}
+.horror{
+  border: 2px solid white;
+  padding: 10px;
+  color: white;
+  border-radius: 20px;
+  margin-left: 10px;
+}
+.kisa{
+  border: 2px solid white;
+  padding: 10px;
+  color: white;
+  border-radius: 20px;
+  margin-left: 10px;
+}
+.dongeng{
+  border: 2px solid white;
+  padding: 10px;
+  color: white;
+  border-radius: 20px;
+  margin-left: 10px;
+}
+.png{
+  margin-top: -40%;
+  margin-left: 80%;
+}
+.baca{
+  color: white;
+  border:5px solid yellow;
+  font-size: 20px;
+  text-align: center;
+  display: flex;
+  margin-left: 25%;
+  margin-top: 30%;
+  padding-left: 10px;
+  background-color: yellow;
+}
